@@ -15,6 +15,13 @@ She will use this app to promote her professional and personal endeavors.  It wi
 User 2: users will be able to learn about Dr.Hernandez and be able to contact her directly.
 
 
+## What does MVP look like?
+MVP is a functional website similar to my previous project with primary user Dr.Hernandez ability to add, update and delete articles in a database (CRUD)
+
+## Beyond MVP look like?
+Messaging - sockets io, web sockets
+Auth for multiple users
+
 ## Wireframe
 
 - see attached
